@@ -1,11 +1,26 @@
 .nav-container {
+  background-color: #333;
+  height: 60px;
   display: flex;
-  background-color: gray;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
 }
-.rotess ul {
-  display: flex;
-  flex-direction: row;
-}
-.rotess li {
+
+.nav-container ul {
   list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-container li {
+  color: #fff;
+  font-size: 18px;
+  margin-right: 20px;
+}
+
+.nav-container a {
+  color: #fff;
+  text-decoration: none;
 }

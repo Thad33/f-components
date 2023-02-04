@@ -1,0 +1,11 @@
+.main-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .main-container p {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #333;
+  }
+  

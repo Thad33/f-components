@@ -1,0 +1,18 @@
+div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    color: black;
+    text-decoration: solid;
+}
+
+button{
+    padding: 20px 20px;
+    border-radius: 0.5rem;
+    color: black;
+    background-color: azure;
+}
